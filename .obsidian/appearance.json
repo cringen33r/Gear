@@ -1,0 +1,10 @@
+{
+  "cssTheme": "Minimal",
+  "theme": "obsidian",
+  "accentColor": "#787878",
+  "showRibbon": true,
+  "nativeMenus": false,
+  "enabledCssSnippets": [
+    "full-width"
+  ]
+}

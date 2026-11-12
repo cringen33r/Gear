@@ -1,0 +1,8 @@
+{
+  "promptDelete": false,
+  "attachmentFolderPath": "Unsorted",
+  "newFileLocation": "folder",
+  "newFileFolderPath": "Unsorted",
+  "openBehavior": "file:Welcome",
+  "alwaysUpdateLinks": true
+}

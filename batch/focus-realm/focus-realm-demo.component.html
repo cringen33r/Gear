@@ -1,0 +1,48 @@
+<div class="controls">
+  <button
+    type="button"
+    tabindex="-1"
+    data-testid="toggle-context-panel"
+    (click)="toggleContextPanel()"
+  >
+    Toggle context panel
+  </button>
+  <button
+    type="button"
+    tabindex="-1"
+    data-testid="toggle-modules-menu"
+    (click)="toggleModulesMenu()"
+  >
+    Toggle modules menu
+  </button>
+</div>
+
+<div webuiFocusRealm="tabs" data-testid="realm-tabs">
+  <button type="button" data-testid="tabs-btn-1">Tab 1</button>
+  <button type="button" data-testid="tabs-btn-2">Tab 2</button>
+</div>
+
+<div webuiFocusRealm="content" data-testid="realm-content">
+  <textarea data-testid="content-textarea"></textarea>
+</div>
+
+@if (showContextPanel) {
+  <div webuiFocusRealm="contextPanel" data-testid="realm-context-panel">
+    <button type="button" data-testid="context-panel-btn">Context action</button>
+  </div>
+}
+
+<div webuiFocusRealm="navPanel" data-testid="realm-nav-panel">
+  <button type="button" data-testid="nav-btn-1">Nav 1</button>
+  <button type="button" data-testid="nav-btn-2">Nav 2</button>
+</div>
+
+@if (showModulesMenu) {
+  <div webuiFocusRealm="modulesMenu" data-testid="realm-modules-menu">
+    <button type="button" data-testid="modules-btn">Modules</button>
+  </div>
+}
+
+<div webuiFocusRealm="mainToolbar" data-testid="realm-main-toolbar">
+  <button type="button" data-testid="toolbar-btn">Toolbar action</button>
+</div>

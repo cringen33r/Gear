@@ -1,0 +1,229 @@
+{
+  "main": {
+    "id": "5d0f66c6b28a2f01",
+    "type": "split",
+    "children": [
+      {
+        "id": "b17b17a9da55c616",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "38987c3d4eaebb7b",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f8c0332031009426",
+    "type": "split",
+    "children": [
+      {
+        "id": "78b661cf35d620d4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3409938ab8f85087",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "ef03afc32c8348c5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "0ea34e5b847f7a6e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7a240ef3e0a27680",
+    "type": "split",
+    "children": [
+      {
+        "id": "a9745f06d199baa2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "04ff0d1b9dc47687",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Pasted image 20260313132646.png",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Pasted image 20260313132646"
+            }
+          },
+          {
+            "id": "f097fef2ceadc564",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Pasted image 20260313132646.png",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Pasted image 20260313132646"
+            }
+          },
+          {
+            "id": "4d2999f122e8c4b9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "812e973b1f4e43bf",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "c30202baef2b65ef",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 340.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "c30202baef2b65ef",
+  "lastOpenFiles": [
+    "Welcome.md",
+    "Технологии/ngx-tiptap — webui-rich-quill.md",
+    "Стандарты/Стандарт кодирования TS.md",
+    "Компетенции/HTML-CSS/Grid.md",
+    "Компетенции/HTML-CSS/Semantics.md",
+    "Компетенции/Матрица 1-3.md",
+    "Spider/Frameworks/Angular/А голуби летят над нашей Zone.js.md",
+    "Spider/Project Configuration/Конфигурация (ESLint + stylelint + Prettier + Husky + VSCode).md",
+    "Spider/Project Configuration/Пакетные менеджеры.md",
+    "Spider/Project Configuration/ESLint.md",
+    "Spider/Project Configuration/Nx.md",
+    "Unsorted/ST.md",
+    "Unsorted/Pasted image 20260228191012.png",
+    "Unsorted/WT.md",
+    "Unsorted/Kamouflage.md",
+    "Unsorted/IMG_20261008_161036_580.jpg",
+    "Unsorted/IMG_20260929_101100_768.jpg",
+    "Unsorted/Ff.md",
+    "Unsorted/Без названия 3.md",
+    "Unsorted/Без названия 2.md",
+    "Unsorted/Без названия 1.md",
+    "Unsorted/Без названия.md",
+    "Unsorted/2026-08-21.md",
+    "123.md",
+    "Вставленное изображение.png",
+    "Вставленное изображение (2).png",
+    "Заметки.md",
+    "ДЕоптимизация ПММ.md",
+    "компетенции_уровень2.md",
+    "матрица.md",
+    "Онлайн магистратура.md",
+    "Pasted image 20260831145828.png",
+    "Pasted image 20260824110858.png",
+    "snippets/full-width.css",
+    "snippets",
+    "users.service.spec.ts",
+    "batch/playwright-blob-download/tests/save-file.spec.js",
+    "batch/playwright-blob-download/src/server.js",
+    "batch/playwright-blob-download/src/save-file.js",
+    "batch/playwright-blob-download/src/index.html",
+    "batch/playwright-blob-download/tests",
+    "batch/playwright-blob-download/src",
+    "batch/playwright-blob-download/package.json",
+    "Unsorted/Ink/Drawing/2026.8.16 - 17.10pm.svg",
+    "Gear/Unsorted/Pasted image 20260228191012.png",
+    "Spiral/Gear/Unsorted/Pasted image 20260228191012.png"
+  ]
+}

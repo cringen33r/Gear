@@ -1,0 +1,19 @@
+/**
+ * Saves a Blob using an anchor element.
+ * @param {string} fileName
+ * @param {Blob} blob
+ */
+export function saveFile(fileName, blob) {
+  const url = URL.createObjectURL(blob);
+  const anchor = document.createElement('a');
+
+  anchor.href = url;
+  anchor.download = fileName;
+  anchor.style.display = 'none';
+
+  document.body.appendChild(anchor);
+  anchor.click();
+  anchor.remove();
+
+  URL.revokeObjectURL(url);
+}

@@ -1,0 +1,472 @@
+{
+  "main": {
+    "id": "ec67e607ece7ecf2",
+    "type": "split",
+    "children": [
+      {
+        "id": "df98aa432ae89a18",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "867efb6dc8746385",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Welcome.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Welcome"
+            }
+          },
+          {
+            "id": "87a85c9638eaa96d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Welcome.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Welcome"
+            }
+          },
+          {
+            "id": "b3166d5bd3fb2c6e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Welcome.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Welcome"
+            }
+          },
+          {
+            "id": "40866ca194417348",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Welcome.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Welcome"
+            }
+          },
+          {
+            "id": "a20f2f6bc443c437",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "555.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "555"
+            }
+          },
+          {
+            "id": "9eaf2ae70b13611a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Welcome.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Welcome"
+            }
+          },
+          {
+            "id": "0da33281df37cfc6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Welcome.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Welcome"
+            }
+          },
+          {
+            "id": "370ef75ce18ca263",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Unsorted/Kamouflage.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Kamouflage"
+            }
+          },
+          {
+            "id": "56b8b67dccda4bca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Welcome.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Welcome"
+            }
+          },
+          {
+            "id": "ef781e7e7a75f42b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Welcome.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Welcome"
+            }
+          },
+          {
+            "id": "ccc08e874eba4348",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Welcome.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Welcome"
+            }
+          },
+          {
+            "id": "f59948f67584f59b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Welcome.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Welcome"
+            }
+          },
+          {
+            "id": "42c15b838a997d6a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Welcome.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Welcome"
+            }
+          },
+          {
+            "id": "4686cdb49ec26b67",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Welcome.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Welcome"
+            }
+          },
+          {
+            "id": "ea24b234066be0ce",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Welcome.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Welcome"
+            }
+          },
+          {
+            "id": "a88f18f050fc1662",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "UT.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "UT"
+            }
+          },
+          {
+            "id": "ff0b2cfba129c020",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Welcome.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Welcome"
+            }
+          },
+          {
+            "id": "172246cf7cab7113",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Unsorted/Без названия 3.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Без названия 3"
+            }
+          },
+          {
+            "id": "001a4159f08599b0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "UT.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "UT"
+            }
+          }
+        ],
+        "currentTab": 18
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "63db2a252a929665",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "372bd7d58f9002e7",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Файловый менеджер"
+        }
+      },
+      {
+        "id": "00e3789c8c977730",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "4402a9ad01a60bdd",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "1a4b77d441b24f6a",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "c1c7b18f053a4a63",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "91fdad54b4290c5e",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Gutenberg/Herodotus/Энгельс и Маркс/«Происхождение семьи, частной собственности и государства».md",
+            "collapseAll": true,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "c58d5643c3c67201",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "25b9135bc90a569d",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "UT.md",
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "Структура"
+        }
+      },
+      {
+        "id": "94563479d576e6d4",
+        "type": "leaf",
+        "state": {
+          "type": "git-view",
+          "state": {},
+          "icon": "git-pull-request",
+          "title": "Source Control"
+        }
+      }
+    ],
+    "currentTab": 3
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "bases:Создать новую базу": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "001a4159f08599b0",
+  "lastOpenFiles": [
+    "Welcome.md",
+    "UT.md",
+    "Unsorted/Без названия 3.md",
+    "/UT.md",
+    "/Spider/Libraries/NgNeat Elf.md",
+    "/Spider/Libraries",
+    "/Spider",
+    "Вставленное изображение (2).png",
+    "/Вставленное изображение (2).png",
+    "Unsorted/ST.md",
+    "Unsorted/Без названия 2.md",
+    "Unsorted/Без названия 1.md",
+    "Unsorted/Без названия.md",
+    "/Вставленное изображение.png",
+    "debug.md",
+    "Elf (@ngneat elf) — гайд и справочник.md",
+    "Pasted image 20260831145828.png",
+    "Вставленное изображение.png",
+    "Unsorted/IMG_20261008_161036_580.jpg",
+    "Unsorted/IMG_20260929_101100_768.jpg",
+    "Pasted image 20260824110858.png",
+    "conflict-files-obsidian-git.md",
+    "Spider/Project Configuration/Useful.md",
+    "Spider/Frameworks/Angular/Aria.md",
+    "Nx/Angular/Generators.md",
+    "Nx/Angular",
+    "DB.md",
+    "ARIA.zip",
+    "Unsorted/Pasted image 20260228191012.png",
+    "Unsorted/2026-08-21.md",
+    "a11y.zip",
+    "/a11y.zip",
+    "Untitled123.md",
+    "pics.md",
+    "/debug.md",
+    "Unsorted/Ff.md",
+    "Unsorted/Kamouflage.md",
+    "Тесты.md",
+    "users.service.spec.ts",
+    "coordinators.service.spec.ts",
+    "/users.service.spec.ts",
+    "/coordinators.service.spec.ts",
+    "Fall.md",
+    "Технологии/RxJS.md",
+    "acronym/VPI.md",
+    "/Pasted image 20260831145828.png",
+    "Quill/Fire and blood/Untitled.canvas"
+  ]
+}

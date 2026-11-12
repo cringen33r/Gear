@@ -1,0 +1,27 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Blob download test</title>
+  </head>
+  <body>
+    <button id="download">Download</button>
+    <script type="module">
+      import { saveFile } from './save-file.js';
+
+      const button = document.querySelector('#download');
+      const fileName = 'example.txt';
+
+      button.addEventListener('click', async () => {
+        const response = await fetch('/blob');
+        if (!response.ok) {
+          throw new Error(`Failed to fetch blob: ${response.status}`);
+        }
+
+        const blob = await response.blob();
+        saveFile(fileName, blob);
+      });
+    </script>
+  </body>
+</html>
